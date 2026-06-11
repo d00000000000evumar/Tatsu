@@ -1,0 +1,617 @@
+2026-06-11 18:18:36,984 [tatsu.server] INFO: 🚀 Starting Tatsu AI...
+2026-06-11 18:18:36,984 [tatsu.db] INFO: Initializing database at: C:\Users\devku\OneDrive\Desktop\Tatsu\data\tatsu.db
+2026-06-11 18:18:37,073 [tatsu.db] INFO: Database initialized successfully.
+2026-06-11 18:18:37,073 [tatsu.server] INFO: ✅ Database initialized
+2026-06-11 18:18:41,334 [tatsu.memory.semantic] INFO: Semantic memory initialized (0 entries)
+2026-06-11 18:18:41,334 [tatsu.server] INFO: ✅ Memory systems ready
+2026-06-11 18:18:41,335 [tatsu.server] INFO: ✅ Safety systems ready
+2026-06-11 18:18:41,560 [tatsu.llm] INFO: LLM Provider initialized: model=qwen3, url=http://localhost:11434
+2026-06-11 18:18:43,899 [tatsu.llm] ERROR: Ollama health check failed: Failed to connect to Ollama. Please check that Ollama is downloaded, running and accessible. https://ollama.com/download
+2026-06-11 18:18:43,900 [tatsu.server] WARNING: ⚠️ LLM not available. Ensure Ollama is running with model 'qwen3'. Run: ollama pull qwen3
+2026-06-11 18:18:43,900 [tatsu.tools] INFO: Registered tool: calculator [low]
+2026-06-11 18:18:43,900 [tatsu.tools] INFO: Registered tool: browser [low]
+2026-06-11 18:18:43,900 [tatsu.tools] INFO: Registered tool: system_info [low]
+2026-06-11 18:18:43,900 [tatsu.tools] INFO: Registered tool: app_launcher [medium]
+2026-06-11 18:18:43,900 [tatsu.tools] INFO: Registered tool: file_manager [medium]
+2026-06-11 18:18:43,900 [tatsu.tools] INFO: Registered tool: search [low]
+2026-06-11 18:18:43,901 [tatsu.tools] INFO: Registered tool: terminal [high]
+2026-06-11 18:18:43,901 [tatsu.tools] INFO: Registered tool: memory [low]
+2026-06-11 18:18:43,901 [tatsu.tools] INFO: Registered tool: task_planner [low]
+2026-06-11 18:18:43,901 [tatsu.server] INFO: ✅ 9 tools registered
+2026-06-11 18:18:43,901 [tatsu.server] INFO: ✅ Agent ready
+2026-06-11 18:18:43,901 [tatsu.server] INFO: 🌐 Tatsu AI is live at http://127.0.0.1:8000
+2026-06-11 18:18:46,060 [tatsu.server] INFO: WebSocket client connected
+2026-06-11 18:18:48,220 [tatsu.server] INFO: WebSocket client connected
+2026-06-11 18:18:48,387 [tatsu.llm] ERROR: Ollama health check failed: Failed to connect to Ollama. Please check that Ollama is downloaded, running and accessible. https://ollama.com/download
+2026-06-11 18:18:50,332 [tatsu.server] INFO: WebSocket client connected
+2026-06-11 18:18:52,341 [tatsu.server] INFO: WebSocket client connected
+2026-06-11 18:18:54,351 [tatsu.server] INFO: WebSocket client connected
+2026-06-11 18:18:56,360 [tatsu.server] INFO: WebSocket client connected
+2026-06-11 18:18:58,370 [tatsu.server] INFO: WebSocket client connected
+2026-06-11 18:19:00,382 [tatsu.server] INFO: WebSocket client connected
+2026-06-11 18:19:02,392 [tatsu.server] INFO: WebSocket client connected
+2026-06-11 18:19:04,401 [tatsu.server] INFO: WebSocket client connected
+2026-06-11 18:19:06,412 [tatsu.server] INFO: WebSocket client connected
+2026-06-11 18:19:08,421 [tatsu.server] INFO: WebSocket client connected
+2026-06-11 18:19:10,431 [tatsu.server] INFO: WebSocket client connected
+2026-06-11 18:19:12,442 [tatsu.server] INFO: WebSocket client connected
+2026-06-11 18:19:14,456 [tatsu.server] INFO: WebSocket client connected
+2026-06-11 18:19:16,472 [tatsu.server] INFO: WebSocket client connected
+2026-06-11 18:19:18,482 [tatsu.server] INFO: WebSocket client connected
+2026-06-11 18:19:21,221 [tatsu.server] INFO: WebSocket client connected
+2026-06-11 18:19:24,221 [tatsu.server] INFO: WebSocket client connected
+2026-06-11 18:19:27,212 [tatsu.server] INFO: WebSocket client connected
+2026-06-11 18:19:30,213 [tatsu.server] INFO: WebSocket client connected
+2026-06-11 18:19:32,327 [tatsu.server] INFO: WebSocket client connected
+2026-06-11 18:19:34,336 [tatsu.server] INFO: WebSocket client connected
+2026-06-11 18:19:36,352 [tatsu.server] INFO: WebSocket client connected
+2026-06-11 18:19:38,361 [tatsu.server] INFO: WebSocket client connected
+2026-06-11 18:19:41,217 [tatsu.server] INFO: WebSocket client connected
+2026-06-11 18:19:42,764 [tatsu.server] INFO: 🚀 Starting Tatsu AI...
+2026-06-11 18:19:42,764 [tatsu.db] INFO: Initializing database at: C:\Users\devku\OneDrive\Desktop\Tatsu\data\tatsu.db
+2026-06-11 18:19:42,767 [tatsu.db] INFO: Database initialized successfully.
+2026-06-11 18:19:42,767 [tatsu.server] INFO: ✅ Database initialized
+2026-06-11 18:19:43,364 [tatsu.memory.semantic] INFO: Semantic memory initialized (0 entries)
+2026-06-11 18:19:43,364 [tatsu.server] INFO: ✅ Memory systems ready
+2026-06-11 18:19:43,365 [tatsu.server] INFO: ✅ Safety systems ready
+2026-06-11 18:19:43,595 [tatsu.llm] INFO: LLM Provider initialized: model=qwen3, url=http://localhost:11434
+2026-06-11 18:19:44,005 [tatsu.server] INFO: WebSocket client connected
+2026-06-11 18:19:44,229 [tatsu.server] INFO: WebSocket client connected
+2026-06-11 18:19:45,919 [tatsu.llm] ERROR: Ollama health check failed: Failed to connect to Ollama. Please check that Ollama is downloaded, running and accessible. https://ollama.com/download
+2026-06-11 18:19:45,920 [tatsu.server] WARNING: ⚠️ LLM not available. Ensure Ollama is running with model 'qwen3'. Run: ollama pull qwen3
+2026-06-11 18:19:45,920 [tatsu.tools] INFO: Registered tool: calculator [low]
+2026-06-11 18:19:45,920 [tatsu.tools] INFO: Registered tool: browser [low]
+2026-06-11 18:19:45,920 [tatsu.tools] INFO: Registered tool: system_info [low]
+2026-06-11 18:19:45,920 [tatsu.tools] INFO: Registered tool: app_launcher [medium]
+2026-06-11 18:19:45,920 [tatsu.tools] INFO: Registered tool: file_manager [medium]
+2026-06-11 18:19:45,920 [tatsu.tools] INFO: Registered tool: search [low]
+2026-06-11 18:19:45,920 [tatsu.tools] INFO: Registered tool: terminal [high]
+2026-06-11 18:19:45,920 [tatsu.tools] INFO: Registered tool: memory [low]
+2026-06-11 18:19:45,920 [tatsu.tools] INFO: Registered tool: task_planner [low]
+2026-06-11 18:19:45,920 [tatsu.server] INFO: ✅ 9 tools registered
+2026-06-11 18:19:45,920 [tatsu.server] INFO: ✅ Agent ready
+2026-06-11 18:19:45,920 [tatsu.server] INFO: 🌐 Tatsu AI is live at http://127.0.0.1:8000
+2026-06-11 18:19:45,921 [tatsu.server] INFO: Tatsu AI shutting down...
+2026-06-11 18:19:46,100 [tatsu.server] INFO: WebSocket client connected
+2026-06-11 18:19:46,389 [tatsu.llm] ERROR: Ollama health check failed: Failed to connect to Ollama. Please check that Ollama is downloaded, running and accessible. https://ollama.com/download
+2026-06-11 18:19:48,118 [tatsu.server] INFO: WebSocket client connected
+2026-06-11 18:19:50,132 [tatsu.server] INFO: WebSocket client connected
+2026-06-11 18:19:52,147 [tatsu.server] INFO: WebSocket client connected
+2026-06-11 18:19:54,157 [tatsu.server] INFO: WebSocket client connected
+2026-06-11 18:19:56,175 [tatsu.server] INFO: WebSocket client connected
+2026-06-11 18:19:58,188 [tatsu.server] INFO: WebSocket client connected
+2026-06-11 18:20:13,691 [tatsu.server] INFO: 🚀 Starting Tatsu AI...
+2026-06-11 18:20:13,691 [tatsu.db] INFO: Initializing database at: C:\Users\devku\OneDrive\Desktop\Tatsu\data\tatsu.db
+2026-06-11 18:20:13,693 [tatsu.db] INFO: Database initialized successfully.
+2026-06-11 18:20:13,694 [tatsu.server] INFO: ✅ Database initialized
+2026-06-11 18:20:14,302 [tatsu.memory.semantic] INFO: Semantic memory initialized (0 entries)
+2026-06-11 18:20:14,302 [tatsu.server] INFO: ✅ Memory systems ready
+2026-06-11 18:20:14,303 [tatsu.server] INFO: ✅ Safety systems ready
+2026-06-11 18:20:14,533 [tatsu.llm] INFO: LLM Provider initialized: model=qwen3, url=http://localhost:11434
+2026-06-11 18:20:16,848 [tatsu.llm] ERROR: Ollama health check failed: Failed to connect to Ollama. Please check that Ollama is downloaded, running and accessible. https://ollama.com/download
+2026-06-11 18:20:16,849 [tatsu.server] WARNING: ⚠️ LLM not available. Ensure Ollama is running with model 'qwen3'. Run: ollama pull qwen3
+2026-06-11 18:20:16,849 [tatsu.tools] INFO: Registered tool: calculator [low]
+2026-06-11 18:20:16,849 [tatsu.tools] INFO: Registered tool: browser [low]
+2026-06-11 18:20:16,849 [tatsu.tools] INFO: Registered tool: system_info [low]
+2026-06-11 18:20:16,849 [tatsu.tools] INFO: Registered tool: app_launcher [medium]
+2026-06-11 18:20:16,849 [tatsu.tools] INFO: Registered tool: file_manager [medium]
+2026-06-11 18:20:16,849 [tatsu.tools] INFO: Registered tool: search [low]
+2026-06-11 18:20:16,849 [tatsu.tools] INFO: Registered tool: terminal [high]
+2026-06-11 18:20:16,849 [tatsu.tools] INFO: Registered tool: memory [low]
+2026-06-11 18:20:16,849 [tatsu.tools] INFO: Registered tool: task_planner [low]
+2026-06-11 18:20:16,849 [tatsu.server] INFO: ✅ 9 tools registered
+2026-06-11 18:20:16,849 [tatsu.server] INFO: ✅ Agent ready
+2026-06-11 18:20:16,849 [tatsu.server] INFO: 🌐 Tatsu AI is live at http://127.0.0.1:8000
+2026-06-11 18:20:17,272 [tatsu.server] INFO: WebSocket client connected
+2026-06-11 18:20:17,282 [tatsu.memory.long_term] INFO: Created conversation: 73280205-b41b-476c-9af0-914d9704720b
+2026-06-11 18:20:17,283 [tatsu.memory.short_term] INFO: Short-term memory cleared.
+2026-06-11 18:20:17,283 [tatsu.agent] INFO: Started new conversation: 73280205-b41b-476c-9af0-914d9704720b
+2026-06-11 18:20:17,459 [tatsu.server] INFO: WebSocket client connected
+2026-06-11 18:20:17,581 [tatsu.memory.long_term] INFO: Created conversation: b6c7c903-ed49-4e9c-bfc4-03078ac728b6
+2026-06-11 18:20:17,582 [tatsu.memory.short_term] INFO: Short-term memory cleared.
+2026-06-11 18:20:17,582 [tatsu.agent] INFO: Started new conversation: b6c7c903-ed49-4e9c-bfc4-03078ac728b6
+2026-06-11 18:20:19,770 [tatsu.llm] ERROR: Ollama health check failed: Failed to connect to Ollama. Please check that Ollama is downloaded, running and accessible. https://ollama.com/download
+2026-06-11 18:24:29,492 [tatsu.server] INFO: 🚀 Starting Tatsu AI...
+2026-06-11 18:24:29,493 [tatsu.db] INFO: Initializing database at: C:\Users\devku\OneDrive\Desktop\Tatsu\data\tatsu.db
+2026-06-11 18:24:29,497 [tatsu.db] INFO: Database initialized successfully.
+2026-06-11 18:24:29,497 [tatsu.server] INFO: ✅ Database initialized
+2026-06-11 18:24:30,089 [tatsu.memory.semantic] INFO: Semantic memory initialized (0 entries)
+2026-06-11 18:24:30,089 [tatsu.server] INFO: ✅ Memory systems ready
+2026-06-11 18:24:30,091 [tatsu.server] INFO: ✅ Safety systems ready
+2026-06-11 18:24:30,313 [tatsu.llm] INFO: LLM Provider initialized: model=qwen3, url=http://localhost:11434
+2026-06-11 18:24:32,631 [tatsu.llm] ERROR: Ollama health check failed: Failed to connect to Ollama. Please check that Ollama is downloaded, running and accessible. https://ollama.com/download
+2026-06-11 18:24:32,631 [tatsu.server] WARNING: ⚠️ LLM not available. Ensure Ollama is running with model 'qwen3'. Run: ollama pull qwen3
+2026-06-11 18:24:32,632 [tatsu.tools] INFO: Registered tool: calculator [low]
+2026-06-11 18:24:32,632 [tatsu.tools] INFO: Registered tool: browser [low]
+2026-06-11 18:24:32,632 [tatsu.tools] INFO: Registered tool: system_info [low]
+2026-06-11 18:24:32,632 [tatsu.tools] INFO: Registered tool: app_launcher [medium]
+2026-06-11 18:24:32,632 [tatsu.tools] INFO: Registered tool: file_manager [medium]
+2026-06-11 18:24:32,632 [tatsu.tools] INFO: Registered tool: search [low]
+2026-06-11 18:24:32,632 [tatsu.tools] INFO: Registered tool: terminal [high]
+2026-06-11 18:24:32,632 [tatsu.tools] INFO: Registered tool: memory [low]
+2026-06-11 18:24:32,632 [tatsu.tools] INFO: Registered tool: task_planner [low]
+2026-06-11 18:24:32,633 [tatsu.server] INFO: ✅ 9 tools registered
+2026-06-11 18:24:32,633 [tatsu.server] INFO: ✅ Agent ready
+2026-06-11 18:24:32,633 [tatsu.server] INFO: 🌐 Tatsu AI is live at http://127.0.0.1:8000
+2026-06-11 18:24:32,821 [tatsu.server] INFO: WebSocket client connected
+2026-06-11 18:24:32,931 [tatsu.memory.long_term] INFO: Created conversation: e9b5db83-ae70-48de-bd04-1b56fcab79ce
+2026-06-11 18:24:32,932 [tatsu.memory.short_term] INFO: Short-term memory cleared.
+2026-06-11 18:24:32,932 [tatsu.agent] INFO: Started new conversation: e9b5db83-ae70-48de-bd04-1b56fcab79ce
+2026-06-11 18:24:35,139 [tatsu.llm] ERROR: Ollama health check failed: Failed to connect to Ollama. Please check that Ollama is downloaded, running and accessible. https://ollama.com/download
+2026-06-11 18:24:41,387 [tatsu.agent] INFO: Agent iteration 1/10
+2026-06-11 18:24:43,709 [tatsu.llm] ERROR: Connection error (is Ollama running?): Failed to connect to Ollama. Please check that Ollama is downloaded, running and accessible. https://ollama.com/download
+2026-06-11 18:24:52,816 [tatsu.server] INFO: WebSocket client disconnected
+2026-06-11 18:24:52,837 [tatsu.server] INFO: WebSocket client connected
+2026-06-11 18:24:52,947 [tatsu.memory.long_term] INFO: Created conversation: 90e25c9e-56c8-48c8-ab3b-b2f46ded5c94
+2026-06-11 18:24:52,948 [tatsu.memory.short_term] INFO: Short-term memory cleared.
+2026-06-11 18:24:52,948 [tatsu.agent] INFO: Started new conversation: 90e25c9e-56c8-48c8-ab3b-b2f46ded5c94
+2026-06-11 18:24:55,158 [tatsu.llm] ERROR: Ollama health check failed: Failed to connect to Ollama. Please check that Ollama is downloaded, running and accessible. https://ollama.com/download
+2026-06-11 18:26:20,642 [tatsu.server] INFO: WebSocket client disconnected
+2026-06-11 18:26:20,675 [tatsu.server] INFO: WebSocket client connected
+2026-06-11 18:26:20,783 [tatsu.memory.long_term] INFO: Created conversation: 08f4a2ef-54fb-4020-b63c-b7172d1ca944
+2026-06-11 18:26:20,784 [tatsu.memory.short_term] INFO: Short-term memory cleared.
+2026-06-11 18:26:20,784 [tatsu.agent] INFO: Started new conversation: 08f4a2ef-54fb-4020-b63c-b7172d1ca944
+2026-06-11 18:26:21,645 [tatsu.server] INFO: WebSocket client disconnected
+2026-06-11 18:26:21,684 [tatsu.server] INFO: WebSocket client connected
+2026-06-11 18:26:21,801 [tatsu.memory.long_term] INFO: Created conversation: 13dfabdb-1aa4-4286-96f0-7d8e2e52f350
+2026-06-11 18:26:21,801 [tatsu.memory.short_term] INFO: Short-term memory cleared.
+2026-06-11 18:26:21,801 [tatsu.agent] INFO: Started new conversation: 13dfabdb-1aa4-4286-96f0-7d8e2e52f350
+2026-06-11 18:26:22,433 [tatsu.server] INFO: WebSocket client disconnected
+2026-06-11 18:26:22,474 [tatsu.server] INFO: WebSocket client connected
+2026-06-11 18:26:22,594 [tatsu.memory.long_term] INFO: Created conversation: f38ebc33-4570-4484-ba5c-e3e52a054864
+2026-06-11 18:26:22,594 [tatsu.memory.short_term] INFO: Short-term memory cleared.
+2026-06-11 18:26:22,594 [tatsu.agent] INFO: Started new conversation: f38ebc33-4570-4484-ba5c-e3e52a054864
+2026-06-11 18:26:22,981 [tatsu.llm] ERROR: Ollama health check failed: Failed to connect to Ollama. Please check that Ollama is downloaded, running and accessible. https://ollama.com/download
+2026-06-11 18:26:23,983 [tatsu.llm] ERROR: Ollama health check failed: Failed to connect to Ollama. Please check that Ollama is downloaded, running and accessible. https://ollama.com/download
+2026-06-11 18:26:24,793 [tatsu.llm] ERROR: Ollama health check failed: Failed to connect to Ollama. Please check that Ollama is downloaded, running and accessible. https://ollama.com/download
+2026-06-11 18:26:24,840 [tatsu.server] INFO: WebSocket client disconnected
+2026-06-11 18:26:29,923 [tatsu.server] INFO: Tatsu AI shutting down...
+2026-06-11 18:27:03,088 [tatsu.server] INFO: 🚀 Starting Tatsu AI...
+2026-06-11 18:27:03,088 [tatsu.db] INFO: Initializing database at: C:\Users\devku\OneDrive\Desktop\Tatsu\data\tatsu.db
+2026-06-11 18:27:03,092 [tatsu.db] INFO: Database initialized successfully.
+2026-06-11 18:27:03,092 [tatsu.server] INFO: ✅ Database initialized
+2026-06-11 18:27:03,684 [tatsu.memory.semantic] INFO: Semantic memory initialized (0 entries)
+2026-06-11 18:27:03,684 [tatsu.server] INFO: ✅ Memory systems ready
+2026-06-11 18:27:03,685 [tatsu.server] INFO: ✅ Safety systems ready
+2026-06-11 18:27:03,907 [tatsu.llm] INFO: LLM Provider initialized: model=qwen3, url=http://localhost:11434
+2026-06-11 18:27:06,195 [tatsu.llm] ERROR: Ollama health check failed: Failed to connect to Ollama. Please check that Ollama is downloaded, running and accessible. https://ollama.com/download
+2026-06-11 18:27:06,195 [tatsu.server] WARNING: ⚠️ LLM not available. Ensure Ollama is running with model 'qwen3'. Run: ollama pull qwen3
+2026-06-11 18:27:06,195 [tatsu.tools] INFO: Registered tool: calculator [low]
+2026-06-11 18:27:06,195 [tatsu.tools] INFO: Registered tool: browser [low]
+2026-06-11 18:27:06,195 [tatsu.tools] INFO: Registered tool: system_info [low]
+2026-06-11 18:27:06,195 [tatsu.tools] INFO: Registered tool: app_launcher [medium]
+2026-06-11 18:27:06,196 [tatsu.tools] INFO: Registered tool: file_manager [medium]
+2026-06-11 18:27:06,196 [tatsu.tools] INFO: Registered tool: search [low]
+2026-06-11 18:27:06,196 [tatsu.tools] INFO: Registered tool: terminal [high]
+2026-06-11 18:27:06,196 [tatsu.tools] INFO: Registered tool: memory [low]
+2026-06-11 18:27:06,196 [tatsu.tools] INFO: Registered tool: task_planner [low]
+2026-06-11 18:27:06,196 [tatsu.server] INFO: ✅ 9 tools registered
+2026-06-11 18:27:06,196 [tatsu.server] INFO: ✅ Agent ready
+2026-06-11 18:27:06,196 [tatsu.server] INFO: 🌐 Tatsu AI is live at http://127.0.0.1:8000
+2026-06-11 18:27:06,397 [tatsu.server] INFO: WebSocket client connected
+2026-06-11 18:27:06,514 [tatsu.memory.long_term] INFO: Created conversation: d7944762-ad03-40bc-8ee9-c420d12d11d7
+2026-06-11 18:27:06,514 [tatsu.memory.short_term] INFO: Short-term memory cleared.
+2026-06-11 18:27:06,514 [tatsu.agent] INFO: Started new conversation: d7944762-ad03-40bc-8ee9-c420d12d11d7
+2026-06-11 18:27:08,703 [tatsu.llm] ERROR: Ollama health check failed: Failed to connect to Ollama. Please check that Ollama is downloaded, running and accessible. https://ollama.com/download
+2026-06-11 18:27:11,913 [tatsu.server] INFO: WebSocket client disconnected
+2026-06-11 18:27:12,503 [tatsu.server] INFO: WebSocket client connected
+2026-06-11 18:27:12,516 [tatsu.memory.long_term] INFO: Created conversation: c71a9fb6-7451-4c55-acfd-6b62af42191a
+2026-06-11 18:27:12,516 [tatsu.memory.short_term] INFO: Short-term memory cleared.
+2026-06-11 18:27:12,516 [tatsu.agent] INFO: Started new conversation: c71a9fb6-7451-4c55-acfd-6b62af42191a
+2026-06-11 18:27:13,926 [tatsu.server] INFO: WebSocket client connected
+2026-06-11 18:27:13,939 [tatsu.memory.long_term] INFO: Created conversation: 825af61a-883a-4b15-b3b1-72e14fff0eeb
+2026-06-11 18:27:13,939 [tatsu.memory.short_term] INFO: Short-term memory cleared.
+2026-06-11 18:27:13,939 [tatsu.agent] INFO: Started new conversation: 825af61a-883a-4b15-b3b1-72e14fff0eeb
+2026-06-11 18:27:16,742 [tatsu.agent] INFO: Agent iteration 1/10
+2026-06-11 18:27:19,014 [tatsu.llm] ERROR: Connection error (is Ollama running?): Failed to connect to Ollama. Please check that Ollama is downloaded, running and accessible. https://ollama.com/download
+2026-06-11 18:27:33,584 [tatsu.server] INFO: WebSocket client disconnected
+2026-06-11 18:27:34,093 [tatsu.server] INFO: WebSocket client connected
+2026-06-11 18:27:34,105 [tatsu.memory.long_term] INFO: Created conversation: 8f9b9eee-92e0-4927-9171-492320346f02
+2026-06-11 18:27:34,105 [tatsu.memory.short_term] INFO: Short-term memory cleared.
+2026-06-11 18:27:34,105 [tatsu.agent] INFO: Started new conversation: 8f9b9eee-92e0-4927-9171-492320346f02
+2026-06-11 18:27:35,596 [tatsu.server] INFO: WebSocket client connected
+2026-06-11 18:27:35,609 [tatsu.memory.long_term] INFO: Created conversation: 2ef1a3df-c245-4fe3-9af3-145c0b110a40
+2026-06-11 18:27:35,609 [tatsu.memory.short_term] INFO: Short-term memory cleared.
+2026-06-11 18:27:35,610 [tatsu.agent] INFO: Started new conversation: 2ef1a3df-c245-4fe3-9af3-145c0b110a40
+2026-06-11 18:28:19,425 [tatsu.server] INFO: WebSocket client disconnected
+2026-06-11 18:28:19,426 [tatsu.server] INFO: WebSocket client disconnected
+2026-06-11 18:28:19,426 [tatsu.server] INFO: WebSocket client disconnected
+2026-06-11 18:28:19,531 [tatsu.server] INFO: Tatsu AI shutting down...
+2026-06-11 18:29:03,223 [tatsu.server] INFO: 🚀 Starting Tatsu AI...
+2026-06-11 18:29:03,224 [tatsu.db] INFO: Initializing database at: C:\Users\devku\OneDrive\Desktop\Tatsu\data\tatsu.db
+2026-06-11 18:29:03,227 [tatsu.db] INFO: Database initialized successfully.
+2026-06-11 18:29:03,227 [tatsu.server] INFO: ✅ Database initialized
+2026-06-11 18:29:03,810 [tatsu.memory.semantic] INFO: Semantic memory initialized (0 entries)
+2026-06-11 18:29:03,810 [tatsu.server] INFO: ✅ Memory systems ready
+2026-06-11 18:29:03,812 [tatsu.server] INFO: ✅ Safety systems ready
+2026-06-11 18:29:04,052 [tatsu.llm] INFO: LLM Provider initialized: model=qwen3, url=http://localhost:11434
+2026-06-11 18:29:04,318 [httpx] INFO: HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2026-06-11 18:29:04,320 [tatsu.llm] WARNING: Model 'qwen3' not found. Available: []. Pull it with: ollama pull qwen3
+2026-06-11 18:29:04,320 [tatsu.server] WARNING: ⚠️ LLM not available. Ensure Ollama is running with model 'qwen3'. Run: ollama pull qwen3
+2026-06-11 18:29:04,320 [tatsu.tools] INFO: Registered tool: calculator [low]
+2026-06-11 18:29:04,320 [tatsu.tools] INFO: Registered tool: browser [low]
+2026-06-11 18:29:04,321 [tatsu.tools] INFO: Registered tool: system_info [low]
+2026-06-11 18:29:04,321 [tatsu.tools] INFO: Registered tool: app_launcher [medium]
+2026-06-11 18:29:04,321 [tatsu.tools] INFO: Registered tool: file_manager [medium]
+2026-06-11 18:29:04,321 [tatsu.tools] INFO: Registered tool: search [low]
+2026-06-11 18:29:04,321 [tatsu.tools] INFO: Registered tool: terminal [high]
+2026-06-11 18:29:04,321 [tatsu.tools] INFO: Registered tool: memory [low]
+2026-06-11 18:29:04,322 [tatsu.tools] INFO: Registered tool: task_planner [low]
+2026-06-11 18:29:04,322 [tatsu.server] INFO: ✅ 9 tools registered
+2026-06-11 18:29:04,322 [tatsu.server] INFO: ✅ Agent ready
+2026-06-11 18:29:04,322 [tatsu.server] INFO: 🌐 Tatsu AI is live at http://127.0.0.1:8000
+2026-06-11 18:29:53,827 [tatsu.server] INFO: 🚀 Starting Tatsu AI...
+2026-06-11 18:29:53,827 [tatsu.db] INFO: Initializing database at: C:\Users\devku\OneDrive\Desktop\Tatsu\data\tatsu.db
+2026-06-11 18:29:53,830 [tatsu.db] INFO: Database initialized successfully.
+2026-06-11 18:29:53,830 [tatsu.server] INFO: ✅ Database initialized
+2026-06-11 18:29:54,522 [tatsu.memory.semantic] INFO: Semantic memory initialized (0 entries)
+2026-06-11 18:29:54,522 [tatsu.server] INFO: ✅ Memory systems ready
+2026-06-11 18:29:54,523 [tatsu.server] INFO: ✅ Safety systems ready
+2026-06-11 18:29:54,827 [tatsu.llm] INFO: LLM Provider initialized: model=qwen3, url=http://localhost:11434
+2026-06-11 18:29:55,097 [httpx] INFO: HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2026-06-11 18:29:55,099 [tatsu.llm] WARNING: Model 'qwen3' not found. Available: []. Pull it with: ollama pull qwen3
+2026-06-11 18:29:55,099 [tatsu.server] WARNING: ⚠️ LLM not available. Ensure Ollama is running with model 'qwen3'. Run: ollama pull qwen3
+2026-06-11 18:29:55,099 [tatsu.tools] INFO: Registered tool: calculator [low]
+2026-06-11 18:29:55,099 [tatsu.tools] INFO: Registered tool: browser [low]
+2026-06-11 18:29:55,099 [tatsu.tools] INFO: Registered tool: system_info [low]
+2026-06-11 18:29:55,099 [tatsu.tools] INFO: Registered tool: app_launcher [medium]
+2026-06-11 18:29:55,100 [tatsu.tools] INFO: Registered tool: file_manager [medium]
+2026-06-11 18:29:55,100 [tatsu.tools] INFO: Registered tool: search [low]
+2026-06-11 18:29:55,100 [tatsu.tools] INFO: Registered tool: terminal [high]
+2026-06-11 18:29:55,100 [tatsu.tools] INFO: Registered tool: memory [low]
+2026-06-11 18:29:55,100 [tatsu.tools] INFO: Registered tool: task_planner [low]
+2026-06-11 18:29:55,100 [tatsu.server] INFO: ✅ 9 tools registered
+2026-06-11 18:29:55,100 [tatsu.server] INFO: ✅ Agent ready
+2026-06-11 18:29:55,100 [tatsu.server] INFO: 🌐 Tatsu AI is live at http://127.0.0.1:8000
+2026-06-11 18:29:55,101 [tatsu.server] INFO: Tatsu AI shutting down...
+2026-06-11 18:30:53,328 [tatsu.server] INFO: 🚀 Starting Tatsu AI...
+2026-06-11 18:30:53,329 [tatsu.db] INFO: Initializing database at: C:\Users\devku\OneDrive\Desktop\Tatsu\data\tatsu.db
+2026-06-11 18:30:53,331 [tatsu.db] INFO: Database initialized successfully.
+2026-06-11 18:30:53,331 [tatsu.server] INFO: ✅ Database initialized
+2026-06-11 18:30:53,927 [tatsu.memory.semantic] INFO: Semantic memory initialized (0 entries)
+2026-06-11 18:30:53,927 [tatsu.server] INFO: ✅ Memory systems ready
+2026-06-11 18:30:53,928 [tatsu.server] INFO: ✅ Safety systems ready
+2026-06-11 18:30:54,161 [tatsu.llm] INFO: LLM Provider initialized: model=qwen3, url=http://localhost:11434
+2026-06-11 18:30:54,432 [httpx] INFO: HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2026-06-11 18:30:54,435 [tatsu.llm] WARNING: Model 'qwen3' not found. Available: ['qwen3.5:397b-cloud']. Pull it with: ollama pull qwen3
+2026-06-11 18:30:54,436 [tatsu.server] WARNING: ⚠️ LLM not available. Ensure Ollama is running with model 'qwen3'. Run: ollama pull qwen3
+2026-06-11 18:30:54,436 [tatsu.tools] INFO: Registered tool: calculator [low]
+2026-06-11 18:30:54,436 [tatsu.tools] INFO: Registered tool: browser [low]
+2026-06-11 18:30:54,436 [tatsu.tools] INFO: Registered tool: system_info [low]
+2026-06-11 18:30:54,436 [tatsu.tools] INFO: Registered tool: app_launcher [medium]
+2026-06-11 18:30:54,436 [tatsu.tools] INFO: Registered tool: file_manager [medium]
+2026-06-11 18:30:54,436 [tatsu.tools] INFO: Registered tool: search [low]
+2026-06-11 18:30:54,436 [tatsu.tools] INFO: Registered tool: terminal [high]
+2026-06-11 18:30:54,436 [tatsu.tools] INFO: Registered tool: memory [low]
+2026-06-11 18:30:54,436 [tatsu.tools] INFO: Registered tool: task_planner [low]
+2026-06-11 18:30:54,436 [tatsu.server] INFO: ✅ 9 tools registered
+2026-06-11 18:30:54,436 [tatsu.server] INFO: ✅ Agent ready
+2026-06-11 18:30:54,436 [tatsu.server] INFO: 🌐 Tatsu AI is live at http://127.0.0.1:8000
+2026-06-11 18:32:59,908 [tatsu.server] INFO: 🚀 Starting Tatsu AI...
+2026-06-11 18:32:59,909 [tatsu.db] INFO: Initializing database at: C:\Users\devku\OneDrive\Desktop\Tatsu\data\tatsu.db
+2026-06-11 18:32:59,911 [tatsu.db] INFO: Database initialized successfully.
+2026-06-11 18:32:59,911 [tatsu.server] INFO: ✅ Database initialized
+2026-06-11 18:33:00,529 [tatsu.memory.semantic] INFO: Semantic memory initialized (0 entries)
+2026-06-11 18:33:00,529 [tatsu.server] INFO: ✅ Memory systems ready
+2026-06-11 18:33:00,530 [tatsu.server] INFO: ✅ Safety systems ready
+2026-06-11 18:33:00,754 [tatsu.llm] INFO: LLM Provider initialized: model=qwen3.5:397b-cloud, url=http://localhost:11434
+2026-06-11 18:33:01,020 [httpx] INFO: HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2026-06-11 18:33:01,022 [tatsu.llm] INFO: Ollama connection OK. Model 'qwen3.5:397b-cloud' available.
+2026-06-11 18:33:01,022 [tatsu.server] INFO: ✅ LLM connected: qwen3.5:397b-cloud
+2026-06-11 18:33:01,022 [tatsu.tools] INFO: Registered tool: calculator [low]
+2026-06-11 18:33:01,022 [tatsu.tools] INFO: Registered tool: browser [low]
+2026-06-11 18:33:01,023 [tatsu.tools] INFO: Registered tool: system_info [low]
+2026-06-11 18:33:01,023 [tatsu.tools] INFO: Registered tool: app_launcher [medium]
+2026-06-11 18:33:01,023 [tatsu.tools] INFO: Registered tool: file_manager [medium]
+2026-06-11 18:33:01,023 [tatsu.tools] INFO: Registered tool: search [low]
+2026-06-11 18:33:01,023 [tatsu.tools] INFO: Registered tool: terminal [high]
+2026-06-11 18:33:01,023 [tatsu.tools] INFO: Registered tool: memory [low]
+2026-06-11 18:33:01,023 [tatsu.tools] INFO: Registered tool: task_planner [low]
+2026-06-11 18:33:01,023 [tatsu.server] INFO: ✅ 9 tools registered
+2026-06-11 18:33:01,023 [tatsu.server] INFO: ✅ Agent ready
+2026-06-11 18:33:01,024 [tatsu.server] INFO: 🌐 Tatsu AI is live at http://127.0.0.1:8000
+2026-06-11 18:33:01,024 [tatsu.server] INFO: Tatsu AI shutting down...
+2026-06-11 18:34:46,948 [tatsu.server] INFO: 🚀 Starting Tatsu AI...
+2026-06-11 18:34:46,949 [tatsu.db] INFO: Initializing database at: C:\Users\devku\OneDrive\Desktop\Tatsu\data\tatsu.db
+2026-06-11 18:34:46,951 [tatsu.db] INFO: Database initialized successfully.
+2026-06-11 18:34:46,952 [tatsu.server] INFO: ✅ Database initialized
+2026-06-11 18:34:47,548 [tatsu.memory.semantic] INFO: Semantic memory initialized (0 entries)
+2026-06-11 18:34:47,548 [tatsu.server] INFO: ✅ Memory systems ready
+2026-06-11 18:34:47,549 [tatsu.server] INFO: ✅ Safety systems ready
+2026-06-11 18:34:47,810 [tatsu.llm] INFO: LLM Provider initialized: model=qwen3.5:397b-cloud, url=http://localhost:11434
+2026-06-11 18:34:48,085 [httpx] INFO: HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2026-06-11 18:34:48,087 [tatsu.llm] INFO: Ollama connection OK. Model 'qwen3.5:397b-cloud' available.
+2026-06-11 18:34:48,087 [tatsu.server] INFO: ✅ LLM connected: qwen3.5:397b-cloud
+2026-06-11 18:34:48,087 [tatsu.tools] INFO: Registered tool: calculator [low]
+2026-06-11 18:34:48,087 [tatsu.tools] INFO: Registered tool: browser [low]
+2026-06-11 18:34:48,087 [tatsu.tools] INFO: Registered tool: system_info [low]
+2026-06-11 18:34:48,087 [tatsu.tools] INFO: Registered tool: app_launcher [medium]
+2026-06-11 18:34:48,087 [tatsu.tools] INFO: Registered tool: file_manager [medium]
+2026-06-11 18:34:48,087 [tatsu.tools] INFO: Registered tool: search [low]
+2026-06-11 18:34:48,087 [tatsu.tools] INFO: Registered tool: terminal [high]
+2026-06-11 18:34:48,087 [tatsu.tools] INFO: Registered tool: memory [low]
+2026-06-11 18:34:48,087 [tatsu.tools] INFO: Registered tool: task_planner [low]
+2026-06-11 18:34:48,087 [tatsu.server] INFO: ✅ 9 tools registered
+2026-06-11 18:34:48,087 [tatsu.server] INFO: ✅ Agent ready
+2026-06-11 18:34:48,087 [tatsu.server] INFO: 🌐 Tatsu AI is live at http://127.0.0.1:8000
+2026-06-11 18:34:48,348 [tatsu.server] INFO: WebSocket client connected
+2026-06-11 18:34:48,461 [httpx] INFO: HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2026-06-11 18:34:48,464 [tatsu.llm] INFO: Ollama connection OK. Model 'qwen3.5:397b-cloud' available.
+2026-06-11 18:34:48,471 [tatsu.memory.long_term] INFO: Created conversation: 5244dcbc-4e8d-4f5f-a7d9-c34b9d4d7e8e
+2026-06-11 18:34:48,471 [tatsu.memory.short_term] INFO: Short-term memory cleared.
+2026-06-11 18:34:48,471 [tatsu.agent] INFO: Started new conversation: 5244dcbc-4e8d-4f5f-a7d9-c34b9d4d7e8e
+2026-06-11 18:34:53,886 [tatsu.memory.short_term] INFO: Short-term memory cleared.
+2026-06-11 18:34:53,886 [tatsu.agent] INFO: Resumed conversation: 825af61a-883a-4b15-b3b1-72e14fff0eeb (1 messages)
+2026-06-11 18:34:58,060 [tatsu.agent] INFO: Agent iteration 1/10
+2026-06-11 18:34:58,652 [httpx] INFO: HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 401 Unauthorized"
+2026-06-11 18:34:58,654 [tatsu.llm] ERROR: Ollama API error: Unauthorized (status code: 401)
+2026-06-11 18:35:16,554 [tatsu.memory.long_term] INFO: Created conversation: 8e41fbe4-9009-4785-be6b-f97272e80c27
+2026-06-11 18:35:16,555 [tatsu.memory.short_term] INFO: Short-term memory cleared.
+2026-06-11 18:35:16,555 [tatsu.agent] INFO: Started new conversation: 8e41fbe4-9009-4785-be6b-f97272e80c27
+2026-06-11 18:35:20,352 [tatsu.agent] INFO: Agent iteration 1/10
+2026-06-11 18:35:21,025 [httpx] INFO: HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 401 Unauthorized"
+2026-06-11 18:35:21,026 [tatsu.llm] ERROR: Ollama API error: Unauthorized (status code: 401)
+2026-06-11 18:36:56,541 [tatsu.server] INFO: WebSocket client disconnected
+2026-06-11 18:38:01,600 [tatsu.server] INFO: 🚀 Starting Tatsu AI...
+2026-06-11 18:38:01,600 [tatsu.db] INFO: Initializing database at: C:\Users\devku\OneDrive\Desktop\Tatsu\data\tatsu.db
+2026-06-11 18:38:01,604 [tatsu.db] INFO: Database initialized successfully.
+2026-06-11 18:38:01,604 [tatsu.server] INFO: ✅ Database initialized
+2026-06-11 18:38:02,209 [tatsu.memory.semantic] INFO: Semantic memory initialized (0 entries)
+2026-06-11 18:38:02,209 [tatsu.server] INFO: ✅ Memory systems ready
+2026-06-11 18:38:02,210 [tatsu.server] INFO: ✅ Safety systems ready
+2026-06-11 18:38:02,461 [tatsu.llm] INFO: LLM Provider initialized: model=qwen3.5:397b-cloud, url=http://localhost:11434
+2026-06-11 18:38:02,731 [httpx] INFO: HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2026-06-11 18:38:02,733 [tatsu.llm] INFO: Ollama connection OK. Model 'qwen3.5:397b-cloud' available.
+2026-06-11 18:38:02,733 [tatsu.server] INFO: ✅ LLM connected: qwen3.5:397b-cloud
+2026-06-11 18:38:02,733 [tatsu.tools] INFO: Registered tool: calculator [low]
+2026-06-11 18:38:02,733 [tatsu.tools] INFO: Registered tool: browser [low]
+2026-06-11 18:38:02,733 [tatsu.tools] INFO: Registered tool: system_info [low]
+2026-06-11 18:38:02,733 [tatsu.tools] INFO: Registered tool: app_launcher [medium]
+2026-06-11 18:38:02,733 [tatsu.tools] INFO: Registered tool: file_manager [medium]
+2026-06-11 18:38:02,733 [tatsu.tools] INFO: Registered tool: search [low]
+2026-06-11 18:38:02,734 [tatsu.tools] INFO: Registered tool: terminal [high]
+2026-06-11 18:38:02,734 [tatsu.tools] INFO: Registered tool: memory [low]
+2026-06-11 18:38:02,734 [tatsu.tools] INFO: Registered tool: task_planner [low]
+2026-06-11 18:38:02,734 [tatsu.server] INFO: ✅ 9 tools registered
+2026-06-11 18:38:02,734 [tatsu.server] INFO: ✅ Agent ready
+2026-06-11 18:38:02,734 [tatsu.server] INFO: 🌐 Tatsu AI is live at http://127.0.0.1:8000
+2026-06-11 18:38:57,204 [tatsu.server] INFO: 🚀 Starting Tatsu AI...
+2026-06-11 18:38:57,205 [tatsu.db] INFO: Initializing database at: C:\Users\devku\OneDrive\Desktop\Tatsu\data\tatsu.db
+2026-06-11 18:38:57,207 [tatsu.db] INFO: Database initialized successfully.
+2026-06-11 18:38:57,207 [tatsu.server] INFO: ✅ Database initialized
+2026-06-11 18:38:57,775 [tatsu.memory.semantic] INFO: Semantic memory initialized (0 entries)
+2026-06-11 18:38:57,776 [tatsu.server] INFO: ✅ Memory systems ready
+2026-06-11 18:38:57,777 [tatsu.server] INFO: ✅ Safety systems ready
+2026-06-11 18:38:57,998 [tatsu.llm] INFO: LLM Provider initialized: model=qwen3.5:397b-cloud, url=http://localhost:11434
+2026-06-11 18:38:58,267 [httpx] INFO: HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2026-06-11 18:38:58,268 [tatsu.llm] INFO: Ollama connection OK. Model 'qwen3.5:397b-cloud' available.
+2026-06-11 18:38:58,268 [tatsu.server] INFO: ✅ LLM connected: qwen3.5:397b-cloud
+2026-06-11 18:38:58,269 [tatsu.tools] INFO: Registered tool: calculator [low]
+2026-06-11 18:38:58,269 [tatsu.tools] INFO: Registered tool: browser [low]
+2026-06-11 18:38:58,269 [tatsu.tools] INFO: Registered tool: system_info [low]
+2026-06-11 18:38:58,269 [tatsu.tools] INFO: Registered tool: app_launcher [medium]
+2026-06-11 18:38:58,269 [tatsu.tools] INFO: Registered tool: file_manager [medium]
+2026-06-11 18:38:58,269 [tatsu.tools] INFO: Registered tool: search [low]
+2026-06-11 18:38:58,269 [tatsu.tools] INFO: Registered tool: terminal [high]
+2026-06-11 18:38:58,269 [tatsu.tools] INFO: Registered tool: memory [low]
+2026-06-11 18:38:58,270 [tatsu.tools] INFO: Registered tool: task_planner [low]
+2026-06-11 18:38:58,270 [tatsu.server] INFO: ✅ 9 tools registered
+2026-06-11 18:38:58,270 [tatsu.server] INFO: ✅ Agent ready
+2026-06-11 18:38:58,270 [tatsu.server] INFO: 🌐 Tatsu AI is live at http://127.0.0.1:8000
+2026-06-11 18:38:58,271 [tatsu.server] INFO: Tatsu AI shutting down...
+2026-06-11 18:39:11,610 [tatsu.server] INFO: 🚀 Starting Tatsu AI...
+2026-06-11 18:39:11,610 [tatsu.db] INFO: Initializing database at: C:\Users\devku\OneDrive\Desktop\Tatsu\data\tatsu.db
+2026-06-11 18:39:11,612 [tatsu.db] INFO: Database initialized successfully.
+2026-06-11 18:39:11,613 [tatsu.server] INFO: ✅ Database initialized
+2026-06-11 18:39:12,174 [tatsu.memory.semantic] INFO: Semantic memory initialized (0 entries)
+2026-06-11 18:39:12,174 [tatsu.server] INFO: ✅ Memory systems ready
+2026-06-11 18:39:12,175 [tatsu.server] INFO: ✅ Safety systems ready
+2026-06-11 18:39:12,393 [tatsu.llm] INFO: LLM Provider initialized: model=qwen3.5:397b-cloud, url=http://localhost:11434
+2026-06-11 18:39:12,669 [httpx] INFO: HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2026-06-11 18:39:12,670 [tatsu.llm] INFO: Ollama connection OK. Model 'qwen3.5:397b-cloud' available.
+2026-06-11 18:39:12,671 [tatsu.server] INFO: ✅ LLM connected: qwen3.5:397b-cloud
+2026-06-11 18:39:12,671 [tatsu.tools] INFO: Registered tool: calculator [low]
+2026-06-11 18:39:12,671 [tatsu.tools] INFO: Registered tool: browser [low]
+2026-06-11 18:39:12,671 [tatsu.tools] INFO: Registered tool: system_info [low]
+2026-06-11 18:39:12,671 [tatsu.tools] INFO: Registered tool: app_launcher [medium]
+2026-06-11 18:39:12,671 [tatsu.tools] INFO: Registered tool: file_manager [medium]
+2026-06-11 18:39:12,671 [tatsu.tools] INFO: Registered tool: search [low]
+2026-06-11 18:39:12,672 [tatsu.tools] INFO: Registered tool: terminal [high]
+2026-06-11 18:39:12,672 [tatsu.tools] INFO: Registered tool: memory [low]
+2026-06-11 18:39:12,672 [tatsu.tools] INFO: Registered tool: task_planner [low]
+2026-06-11 18:39:12,672 [tatsu.server] INFO: ✅ 9 tools registered
+2026-06-11 18:39:12,672 [tatsu.server] INFO: ✅ Agent ready
+2026-06-11 18:39:12,672 [tatsu.server] INFO: 🌐 Tatsu AI is live at http://127.0.0.1:8000
+2026-06-11 18:39:12,673 [tatsu.server] INFO: Tatsu AI shutting down...
+2026-06-11 18:40:52,558 [tatsu.server] INFO: 🚀 Starting Tatsu AI...
+2026-06-11 18:40:52,558 [tatsu.db] INFO: Initializing database at: C:\Users\devku\OneDrive\Desktop\Tatsu\data\tatsu.db
+2026-06-11 18:40:52,561 [tatsu.db] INFO: Database initialized successfully.
+2026-06-11 18:40:52,561 [tatsu.server] INFO: ✅ Database initialized
+2026-06-11 18:40:53,153 [tatsu.memory.semantic] INFO: Semantic memory initialized (0 entries)
+2026-06-11 18:40:53,153 [tatsu.server] INFO: ✅ Memory systems ready
+2026-06-11 18:40:53,154 [tatsu.server] INFO: ✅ Safety systems ready
+2026-06-11 18:40:53,382 [tatsu.llm] INFO: LLM Provider initialized: model=qwen3.5:397b-cloud, url=http://localhost:11434
+2026-06-11 18:40:53,649 [httpx] INFO: HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2026-06-11 18:40:53,650 [tatsu.llm] INFO: Ollama connection OK. Model 'qwen3.5:397b-cloud' available.
+2026-06-11 18:40:53,651 [tatsu.server] INFO: ✅ LLM connected: qwen3.5:397b-cloud
+2026-06-11 18:40:53,651 [tatsu.tools] INFO: Registered tool: calculator [low]
+2026-06-11 18:40:53,651 [tatsu.tools] INFO: Registered tool: browser [low]
+2026-06-11 18:40:53,651 [tatsu.tools] INFO: Registered tool: system_info [low]
+2026-06-11 18:40:53,651 [tatsu.tools] INFO: Registered tool: app_launcher [medium]
+2026-06-11 18:40:53,651 [tatsu.tools] INFO: Registered tool: file_manager [medium]
+2026-06-11 18:40:53,652 [tatsu.tools] INFO: Registered tool: search [low]
+2026-06-11 18:40:53,652 [tatsu.tools] INFO: Registered tool: terminal [high]
+2026-06-11 18:40:53,652 [tatsu.tools] INFO: Registered tool: memory [low]
+2026-06-11 18:40:53,652 [tatsu.tools] INFO: Registered tool: task_planner [low]
+2026-06-11 18:40:53,652 [tatsu.server] INFO: ✅ 9 tools registered
+2026-06-11 18:40:53,652 [tatsu.server] INFO: ✅ Agent ready
+2026-06-11 18:40:53,652 [tatsu.server] INFO: 🌐 Tatsu AI is live at http://127.0.0.1:8000
+2026-06-11 18:42:20,955 [tatsu.server] INFO: Tatsu AI shutting down...
+2026-06-11 18:42:23,357 [tatsu.server] INFO: 🚀 Starting Tatsu AI...
+2026-06-11 18:42:23,358 [tatsu.db] INFO: Initializing database at: C:\Users\devku\OneDrive\Desktop\Tatsu\data\tatsu.db
+2026-06-11 18:42:23,360 [tatsu.db] INFO: Database initialized successfully.
+2026-06-11 18:42:23,360 [tatsu.server] INFO: ✅ Database initialized
+2026-06-11 18:42:23,951 [tatsu.memory.semantic] INFO: Semantic memory initialized (0 entries)
+2026-06-11 18:42:23,951 [tatsu.server] INFO: ✅ Memory systems ready
+2026-06-11 18:42:23,952 [tatsu.server] INFO: ✅ Safety systems ready
+2026-06-11 18:42:24,183 [tatsu.llm] INFO: LLM Provider initialized: model=qwen3.5:397b-cloud, url=http://localhost:11434
+2026-06-11 18:42:24,448 [httpx] INFO: HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2026-06-11 18:42:24,450 [tatsu.llm] INFO: Ollama connection OK. Model 'qwen3.5:397b-cloud' available.
+2026-06-11 18:42:24,450 [tatsu.server] INFO: ✅ LLM connected: qwen3.5:397b-cloud
+2026-06-11 18:42:24,450 [tatsu.tools] INFO: Registered tool: calculator [low]
+2026-06-11 18:42:24,451 [tatsu.tools] INFO: Registered tool: browser [low]
+2026-06-11 18:42:24,451 [tatsu.tools] INFO: Registered tool: system_info [low]
+2026-06-11 18:42:24,451 [tatsu.tools] INFO: Registered tool: app_launcher [medium]
+2026-06-11 18:42:24,451 [tatsu.tools] INFO: Registered tool: file_manager [medium]
+2026-06-11 18:42:24,451 [tatsu.tools] INFO: Registered tool: search [low]
+2026-06-11 18:42:24,451 [tatsu.tools] INFO: Registered tool: terminal [high]
+2026-06-11 18:42:24,452 [tatsu.tools] INFO: Registered tool: memory [low]
+2026-06-11 18:42:24,452 [tatsu.tools] INFO: Registered tool: task_planner [low]
+2026-06-11 18:42:24,452 [tatsu.server] INFO: ✅ 9 tools registered
+2026-06-11 18:42:24,452 [tatsu.server] INFO: ✅ Agent ready
+2026-06-11 18:42:24,452 [tatsu.server] INFO: 🌐 Tatsu AI is live at http://127.0.0.1:8000
+2026-06-11 18:42:24,713 [tatsu.server] INFO: WebSocket client connected
+2026-06-11 18:42:24,826 [httpx] INFO: HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2026-06-11 18:42:24,828 [tatsu.llm] INFO: Ollama connection OK. Model 'qwen3.5:397b-cloud' available.
+2026-06-11 18:42:24,829 [tatsu.memory.long_term] INFO: Created conversation: 7b878941-0c1d-42b9-8f0c-557a366215c8
+2026-06-11 18:42:24,829 [tatsu.memory.short_term] INFO: Short-term memory cleared.
+2026-06-11 18:42:24,830 [tatsu.agent] INFO: Started new conversation: 7b878941-0c1d-42b9-8f0c-557a366215c8
+2026-06-11 18:42:41,748 [tatsu.agent] INFO: Agent iteration 1/10
+2026-06-11 18:42:42,648 [httpx] INFO: HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 401 Unauthorized"
+2026-06-11 18:42:42,650 [tatsu.llm] ERROR: Ollama API error: Unauthorized (status code: 401)
+2026-06-11 18:44:18,337 [tatsu.server] INFO: WebSocket client disconnected
+2026-06-11 18:44:18,373 [tatsu.server] INFO: WebSocket client connected
+2026-06-11 18:44:18,494 [tatsu.memory.long_term] INFO: Created conversation: b342c9d5-5b06-4d9d-9066-100cce3622b6
+2026-06-11 18:44:18,494 [tatsu.memory.short_term] INFO: Short-term memory cleared.
+2026-06-11 18:44:18,494 [tatsu.agent] INFO: Started new conversation: b342c9d5-5b06-4d9d-9066-100cce3622b6
+2026-06-11 18:44:18,644 [httpx] INFO: HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2026-06-11 18:44:18,645 [tatsu.llm] INFO: Ollama connection OK. Model 'qwen3.5:397b-cloud' available.
+2026-06-11 18:44:47,988 [tatsu.memory.short_term] INFO: Short-term memory cleared.
+2026-06-11 18:44:47,988 [tatsu.agent] INFO: Resumed conversation: f38ebc33-4570-4484-ba5c-e3e52a054864 (0 messages)
+2026-06-11 18:44:50,545 [tatsu.memory.long_term] INFO: Created conversation: cda3f94a-d4df-4db8-92cc-f5fff250c1da
+2026-06-11 18:44:50,545 [tatsu.memory.short_term] INFO: Short-term memory cleared.
+2026-06-11 18:44:50,545 [tatsu.agent] INFO: Started new conversation: cda3f94a-d4df-4db8-92cc-f5fff250c1da
+2026-06-11 18:45:08,626 [tatsu.memory.short_term] INFO: Short-term memory cleared.
+2026-06-11 18:45:08,626 [tatsu.agent] INFO: Resumed conversation: b6c7c903-ed49-4e9c-bfc4-03078ac728b6 (0 messages)
+2026-06-11 18:45:10,634 [tatsu.memory.long_term] INFO: Created conversation: 001fc17d-dd5b-4445-b2b2-69bec15a890d
+2026-06-11 18:45:10,634 [tatsu.memory.short_term] INFO: Short-term memory cleared.
+2026-06-11 18:45:10,634 [tatsu.agent] INFO: Started new conversation: 001fc17d-dd5b-4445-b2b2-69bec15a890d
+2026-06-11 19:01:00,668 [tatsu.server] INFO: 🚀 Starting Tatsu AI...
+2026-06-11 19:01:00,668 [tatsu.db] INFO: Initializing database at: C:\Users\devku\OneDrive\Desktop\Tatsu\data\tatsu.db
+2026-06-11 19:01:00,671 [tatsu.db] INFO: Database initialized successfully.
+2026-06-11 19:01:00,671 [tatsu.server] INFO: ✅ Database initialized
+2026-06-11 19:01:01,326 [tatsu.memory.semantic] INFO: Semantic memory initialized (0 entries)
+2026-06-11 19:01:01,326 [tatsu.server] INFO: ✅ Memory systems ready
+2026-06-11 19:01:01,327 [tatsu.server] INFO: ✅ Safety systems ready
+2026-06-11 19:01:01,561 [tatsu.llm] INFO: OpenAI Provider initialized: model=gpt-4o-mini
+2026-06-11 19:01:03,267 [httpx] INFO: HTTP Request: GET https://api.openai.com/v1/models "HTTP/1.1 200 OK"
+2026-06-11 19:01:03,272 [tatsu.server] INFO: ✅ LLM connected: qwen3
+2026-06-11 19:01:03,272 [tatsu.tools] INFO: Registered tool: calculator [low]
+2026-06-11 19:01:03,273 [tatsu.tools] INFO: Registered tool: browser [low]
+2026-06-11 19:01:03,273 [tatsu.tools] INFO: Registered tool: system_info [low]
+2026-06-11 19:01:03,273 [tatsu.tools] INFO: Registered tool: app_launcher [medium]
+2026-06-11 19:01:03,273 [tatsu.tools] INFO: Registered tool: file_manager [medium]
+2026-06-11 19:01:03,273 [tatsu.tools] INFO: Registered tool: search [low]
+2026-06-11 19:01:03,273 [tatsu.tools] INFO: Registered tool: terminal [high]
+2026-06-11 19:01:03,273 [tatsu.tools] INFO: Registered tool: memory [low]
+2026-06-11 19:01:03,274 [tatsu.tools] INFO: Registered tool: task_planner [low]
+2026-06-11 19:01:03,274 [tatsu.server] INFO: ✅ 9 tools registered
+2026-06-11 19:01:03,274 [tatsu.server] INFO: ✅ Agent ready
+2026-06-11 19:01:03,274 [tatsu.server] INFO: 🌐 Tatsu AI is live at http://127.0.0.1:8000
+2026-06-11 19:01:10,188 [tatsu.server] INFO: WebSocket client connected
+2026-06-11 19:01:10,303 [tatsu.memory.long_term] INFO: Created conversation: 029864a5-cdc8-46d6-b71f-842b230905c3
+2026-06-11 19:01:10,304 [tatsu.memory.short_term] INFO: Short-term memory cleared.
+2026-06-11 19:01:10,304 [tatsu.agent] INFO: Started new conversation: 029864a5-cdc8-46d6-b71f-842b230905c3
+2026-06-11 19:01:11,436 [httpx] INFO: HTTP Request: GET https://api.openai.com/v1/models "HTTP/1.1 200 OK"
+2026-06-11 19:01:17,909 [tatsu.agent] INFO: Agent iteration 1/10
+2026-06-11 19:01:19,403 [httpx] INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-11 19:01:19,404 [openai._base_client] INFO: Retrying request to /chat/completions in 0.401782 seconds
+2026-06-11 19:01:20,263 [httpx] INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-11 19:01:20,264 [openai._base_client] INFO: Retrying request to /chat/completions in 0.764998 seconds
+2026-06-11 19:01:21,462 [httpx] INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-06-11 19:01:21,463 [tatsu.llm] ERROR: OpenAI API error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2026-06-11 19:04:33,815 [tatsu.server] INFO: WebSocket client disconnected
+2026-06-11 19:04:33,924 [tatsu.server] INFO: Tatsu AI shutting down...
+2026-06-11 19:07:08,912 [tatsu.server] INFO: 🚀 Starting Tatsu AI...
+2026-06-11 19:07:08,913 [tatsu.db] INFO: Initializing database at: C:\Users\devku\OneDrive\Desktop\Tatsu\data\tatsu.db
+2026-06-11 19:07:08,922 [tatsu.db] INFO: Database initialized successfully.
+2026-06-11 19:07:08,923 [tatsu.server] INFO: ✅ Database initialized
+2026-06-11 19:07:09,887 [tatsu.memory.semantic] INFO: Semantic memory initialized (0 entries)
+2026-06-11 19:07:09,887 [tatsu.server] INFO: ✅ Memory systems ready
+2026-06-11 19:07:09,888 [tatsu.server] INFO: ✅ Safety systems ready
+2026-06-11 19:07:10,109 [tatsu.llm] INFO: OpenAI Provider initialized: model=deepseek-ai/deepseek-v4-flash
+2026-06-11 19:07:10,959 [httpx] INFO: HTTP Request: GET https://integrate.api.nvidia.com/v1/models "HTTP/1.1 200 OK"
+2026-06-11 19:07:10,963 [tatsu.server] INFO: ✅ LLM connected: qwen3
+2026-06-11 19:07:10,964 [tatsu.tools] INFO: Registered tool: calculator [low]
+2026-06-11 19:07:10,964 [tatsu.tools] INFO: Registered tool: browser [low]
+2026-06-11 19:07:10,964 [tatsu.tools] INFO: Registered tool: system_info [low]
+2026-06-11 19:07:10,964 [tatsu.tools] INFO: Registered tool: app_launcher [medium]
+2026-06-11 19:07:10,964 [tatsu.tools] INFO: Registered tool: file_manager [medium]
+2026-06-11 19:07:10,964 [tatsu.tools] INFO: Registered tool: search [low]
+2026-06-11 19:07:10,964 [tatsu.tools] INFO: Registered tool: terminal [high]
+2026-06-11 19:07:10,964 [tatsu.tools] INFO: Registered tool: memory [low]
+2026-06-11 19:07:10,964 [tatsu.tools] INFO: Registered tool: task_planner [low]
+2026-06-11 19:07:10,965 [tatsu.server] INFO: ✅ 9 tools registered
+2026-06-11 19:07:10,965 [tatsu.server] INFO: ✅ Agent ready
+2026-06-11 19:07:10,965 [tatsu.server] INFO: 🌐 Tatsu AI is live at http://127.0.0.1:8000
+2026-06-11 19:07:11,524 [httpx] INFO: HTTP Request: GET https://integrate.api.nvidia.com/v1/models "HTTP/1.1 200 OK"
+2026-06-11 19:07:11,540 [tatsu.server] INFO: WebSocket client connected
+2026-06-11 19:07:11,650 [httpx] INFO: HTTP Request: GET https://integrate.api.nvidia.com/v1/models "HTTP/1.1 200 OK"
+2026-06-11 19:07:11,663 [tatsu.memory.long_term] INFO: Created conversation: 844371fc-50eb-4ad0-9b73-36effc5b8cdd
+2026-06-11 19:07:11,664 [tatsu.memory.short_term] INFO: Short-term memory cleared.
+2026-06-11 19:07:11,664 [tatsu.agent] INFO: Started new conversation: 844371fc-50eb-4ad0-9b73-36effc5b8cdd
+2026-06-11 19:07:14,677 [tatsu.memory.short_term] INFO: Short-term memory cleared.
+2026-06-11 19:07:14,677 [tatsu.agent] INFO: Resumed conversation: 844371fc-50eb-4ad0-9b73-36effc5b8cdd (0 messages)
+2026-06-11 19:07:19,108 [tatsu.memory.long_term] INFO: Created conversation: 00c91c14-8f63-4b36-94d9-fffde69e780d
+2026-06-11 19:07:19,108 [tatsu.memory.short_term] INFO: Short-term memory cleared.
+2026-06-11 19:07:19,108 [tatsu.agent] INFO: Started new conversation: 00c91c14-8f63-4b36-94d9-fffde69e780d
+2026-06-11 19:07:25,904 [tatsu.agent] INFO: Agent iteration 1/10
+2026-06-11 19:07:49,718 [httpx] INFO: HTTP Request: POST https://integrate.api.nvidia.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2026-06-11 19:07:49,846 [tatsu.llm] ERROR: OpenAI API error: Error code: 400 - {'error': {'message': '9 validation errors:\n  {\'type\': \'missing\', \'loc\': (\'body\', \'tools\', 0, \'function\', \'name\'), \'msg\': \'Field required\', \'input\': {\'type\': \'function\', \'function\': {\'name\': \'calculator\', \'description\': \'Evaluate mathematical expressions. Supports arithmetic (+, -, *, /, ^, %), functions (sqrt, sin, cos, tan, log, abs, round, ceil, floor), and constants (pi, e). Use this for any math calculation.\', \'parameters\': {\'type\': \'object\', \'properties\': {\'expression\': {\'type\': \'string\', \'description\': "The mathematical expression to evaluate, e.g., \'(245 * 18.7) + sqrt(144)\'"}}, \'required\': [\'expression\']}}}}\n  {\'type\': \'missing\', \'loc\': (\'body\', \'tools\', 1, \'function\', \'name\'), \'msg\': \'Field required\', \'input\': {\'type\': \'function\', \'function\': {\'name\': \'browser\', \'description\': "Open a website URL in the default browser or search the web. Use action \'open\' to open a specific URL, or \'search\' to search the web.", \'parameters\': {\'type\': \'object\', \'properties\': {\'action\': {\'type\': \'string\', \'description\': "The action to perform: \'open\' to open a URL, \'search\' to search the web.", \'enum\': [\'open\', \'search\']}, \'query\': {\'type\': \'string\', \'description\': "The URL to open (for \'open\') or the search query (for \'search\')."}}, \'required\': [\'action\', \'query\']}}}}\n  {\'type\': \'missing\', \'loc\': (\'body\', \'tools\', 2, \'function\', \'name\'), \'msg\': \'Field required\', \'input\': {\'type\': \'function\', \'function\': {\'name\': \'system_info\', \'description\': "Get system information and monitor resources. Actions: \'overview\' for a full summary, \'cpu\' for CPU info, \'memory\' for RAM details, \'disk\' for storage info, \'battery\' for battery status, \'processes\' to list running processes, \'uptime\' for system uptime.", \'parameters\': {\'type\': \'object\', \'properties\': {\'action\': {\'type\': \'string\', \'description\': \'What info to retrieve.\', \'enum\': [\'overview\', \'cpu\', \'memory\', \'disk\', \'battery\', \'processes\', \'uptime\']}}, \'required\': [\'action\']}}}}\n  {\'type\': \'missing\', \'loc\': (\'body\', \'tools\', 3, \'function\', \'name\'), \'msg\': \'Field required\', \'input\': {\'type\': \'function\', \'function\': {\'name\': \'app_launcher\', \'description\': "Launch an installed application on this Windows computer. Provide the app name (e.g., \'Chrome\', \'VS Code\', \'Discord\'). If the app is not found, I\'ll suggest where to download it.", \'parameters\': {\'type\': \'object\', \'properties\': {\'app_name\': {\'type\': \'string\', \'description\': "Name of the application to launch (e.g., \'Chrome\', \'VS Code\', \'Spotify\')."}}, \'required\': [\'app_name\']}}}}\n  {\'type\': \'missing\', \'loc\': (\'body\', \'tools\', 4, \'function\', \'name\'), \'msg\': \'Field required\', \'input\': {\'type\': \'function\', \'function\': {\'name\': \'file_manager\', \'description\': "Manage files and folders. Actions: \'list\' (list directory contents), \'create_folder\' (create a new folder), \'read\' (read a text file\'s contents), \'move\' (move a file/folder), \'rename\' (rename a file/folder), \'copy\' (copy a file/folder), \'delete\' (delete a file/folder — requires confirmation), \'info\' (get file/folder information).", \'parameters\': {\'type\': \'object\', \'properties\': {\'action\': {\'type\': \'string\', \'description\': \'The file operation to perform.\', \'enum\': [\'list\', \'create_folder\', \'read\', \'move\', \'rename\', \'copy\', \'delete\', \'info\']}, \'path\': {\'type\': \'string\', \'description\': \'The file or folder path to operate on.\'}, \'destination\': {\'type\': \'string\', \'description\': "Destination path (for \'move\', \'rename\', \'copy\' actions)."}}, \'required\': [\'action\', \'path\']}}}}\n  {\'type\': \'missing\', \'loc\': (\'body\', \'tools\', 5, \'function\', \'name\'), \'msg\': \'Field required\', \'input\': {\'type\': \'function\', \'function\': {\'name\': \'search\', \'description\': "Search for files and folders on this computer. Use \'find\' to search by filename pattern (supports wildcards like *.py, *.txt). Use \'find_content\' to search inside text files for specific text.", \'parameters\': {\'type\': \'object\', \'properties\': {\'action\': {\'type\': \'string\', \'description\': "Search type: \'find\' for filename search, \'find_content\' for text content search.", \'enum\': [\'find\', \'find_content\']}, \'query\': {\'type\': \'string\', \'description\': "The search query: a filename pattern (e.g., \'*.py\', \'report*\') or text to find inside files."}, \'directory\': {\'type\': \'string\', \'description\': "Directory to search in (e.g., \'~/Desktop\', \'~/Documents\'). Defaults to user home."}, \'max_results\': {\'type\': \'integer\', \'description\': \'Maximum number of results to return. Default: 20.\'}}, \'required\': [\'action\', \'query\']}}}}\n  {\'type\': \'missing\', \'loc\': (\'body\', \'tools\', 6, \'function\', \'name\'), \'msg\': \'Field required\', \'input\': {\'type\': \'function\', \'function\': {\'name\': \'terminal\', \'description\': \'Execute a shell command on this Windows computer. Use this for system tasks like checking installed software, getting network info, listing processes, etc. Dangerous commands are blocked. Sensitive commands require user confirmation.\', \'parameters\': {\'type\': \'object\', \'properties\': {\'command\': {\'type\': \'string\', \'description\': "The shell command to execute (e.g., \'dir\', \'ipconfig\', \'pip list\')."}, \'working_directory\': {\'type\': \'string\', \'description\': \'Working directory for the command. Defaults to user home.\'}}, \'required\': [\'command\']}}}}\n  {\'type\': \'missing\', \'loc\': (\'body\', \'tools\', 7, \'function\', \'name\'), \'msg\': \'Field required\', \'input\': {\'type\': \'function\', \'function\': {\'name\': \'memory\', \'description\': "Store or recall information from memory. Use \'save\' to remember something (e.g., user preferences, facts). Use \'recall\' to retrieve a specific memory. Use \'search\' to find memories by keyword. Use \'set_preference\' to store a user preference. Use \'get_preference\' to retrieve a user preference.", \'parameters\': {\'type\': \'object\', \'properties\': {\'action\': {\'type\': \'string\', \'description\': \'The memory operation.\', \'enum\': [\'save\', \'recall\', \'search\', \'set_preference\', \'get_preference\']}, \'category\': {\'type\': \'string\', \'description\': "Category for the memory (e.g., \'user_info\', \'preferences\', \'facts\', \'workflows\')."}, \'key\': {\'type\': \'string\', \'description\': "The key/name for the memory item (e.g., \'favorite_editor\', \'name\')."}, \'value\': {\'type\': \'string\', \'description\': "The value to store (for \'save\' and \'set_preference\' actions)."}, \'query\': {\'type\': \'string\', \'description\': "Search query for \'search\' action."}}, \'required\': [\'action\']}}}}\n  {\'type\': \'missing\', \'loc\': (\'body\', \'tools\', 8, \'function\', \'name\'), \'msg\': \'Field required\', \'input\': {\'type\': \'function\', \'function\': {\'name\': \'task_planner\', \'description\': "Create and manage multi-step task plans. Use \'create\' to break a complex goal into steps. Use \'status\' to check the current plan progress.", \'parameters\': {\'type\': \'object\', \'properties\': {\'action\': {\'type\': \'string\', \'description\': "The planning action: \'create\' to make a new plan, \'status\' to check progress.", \'enum\': [\'create\', \'status\']}, \'goal\': {\'type\': \'string\', \'description\': "The goal to plan for (for \'create\' action)."}, \'steps\': {\'type\': \'string\', \'description\': "Comma-separated list of steps (for \'create\' action)."}}, \'required\': [\'action\']}}}}\n\n  File "/workspace/sglang/python/sglang/srt/entrypoints/http_server.py", line 1269, in openai_v1_chat_completions\n    POST /v1/chat/completions [{\'type\': \'missing\', \'loc\': (\'body\', \'tools\', 0, \'function\', \'name\'), \'msg\': \'Field required\', \'input\': {\'type\': \'function\', \'function\': {\'name\': \'calculator\', \'description\': \'Evaluate mathematical expressions. Supports arithmetic (+, -, *, /, ^, %), functions (sqrt, sin, cos, tan, log, abs, round, ceil, floor), and constants (pi, e). Use this for any math calculation.\', \'parameters\': {\'type\': \'object\', \'properties\': {\'expression\': {\'type\': \'string\', \'description\': "The mathematical expression to evaluate, e.g., \'(245 * 18.7) + sqrt(144)\'"}}, \'required\': [\'expression\']}}}}, {\'type\': \'missing\', \'loc\': (\'body\', \'tools\', 1, \'function\', \'name\'), \'msg\': \'Field required\', \'input\': {\'type\': \'function\', \'function\': {\'name\': \'browser\', \'description\': "Open a website URL in the default browser or search the web. Use action \'open\' to open a specific URL, or \'search\' to search the web.", \'parameters\': {\'type\': \'object\', \'properties\': {\'action\': {\'type\': \'string\', \'description\': "The action to perform: \'open\' to open a URL, \'search\' to search the web.", \'enum\': [\'open\', \'search\']}, \'query\': {\'type\': \'string\', \'description\': "The URL to open (for \'open\') or the search query (for \'search\')."}}, \'required\': [\'action\', \'query\']}}}}, {\'type\': \'missing\', \'loc\': (\'body\', \'tools\', 2, \'function\', \'name\'), \'msg\': \'Field required\', \'input\': {\'type\': \'function\', \'function\': {\'name\': \'system_info\', \'description\': "Get system information and monitor resources. Actions: \'overview\' for a full summary, \'cpu\' for CPU info, \'memory\' for RAM details, \'disk\' for storage info, \'battery\' for battery status, \'processes\' to list running processes, \'uptime\' for system uptime.", \'parameters\': {\'type\': \'object\', \'properties\': {\'action\': {\'type\': \'string\', \'description\': \'What info to retrieve.\', \'enum\': [\'overview\', \'cpu\', \'memory\', \'disk\', \'battery\', \'processes\', \'uptime\']}}, \'required\': [\'action\']}}}}, {\'type\': \'missing\', \'loc\': (\'body\', \'tools\', 3, \'function\', \'name\'), \'msg\': \'Field required\', \'input\': {\'type\': \'function\', \'function\': {\'name\': \'app_launcher\', \'description\': "Launch an installed application on this Windows computer. Provide the app name (e.g., \'Chrome\', \'VS Code\', \'Discord\'). If the app is not found, I\'ll suggest where to download it.", \'parameters\': {\'type\': \'object\', \'properties\': {\'app_name\': {\'type\': \'string\', \'description\': "Name of the application to launch (e.g., \'Chrome\', \'VS Code\', \'Spotify\')."}}, \'required\': [\'app_name\']}}}}, {\'type\': \'missing\', \'loc\': (\'body\', \'tools\', 4, \'function\', \'name\'), \'msg\': \'Field required\', \'input\': {\'type\': \'function\', \'function\': {\'name\': \'file_manager\', \'description\': "Manage files and folders. Actions: \'list\' (list directory contents), \'create_folder\' (create a new folder), \'read\' (read a text file\'s contents), \'move\' (move a file/folder), \'rename\' (rename a file/folder), \'copy\' (copy a file/folder), \'delete\' (delete a file/folder — requires confirmation), \'info\' (get file/folder information).", \'parameters\': {\'type\': \'object\', \'properties\': {\'action\': {\'type\': \'string\', \'description\': \'The file operation to perform.\', \'enum\': [\'list\', \'create_folder\', \'read\', \'move\', \'rename\', \'copy\', \'delete\', \'info\']}, \'path\': {\'type\': \'string\', \'description\': \'The file or folder path to operate on.\'}, \'destination\': {\'type\': \'string\', \'description\': "Destination path (for \'move\', \'rename\', \'copy\' actions)."}}, \'required\': [\'action\', \'path\']}}}}, {\'type\': \'missing\', \'loc\': (\'body\', \'tools\', 5, \'function\', \'name\'), \'msg\': \'Field required\', \'input\': {\'type\': \'function\', \'function\': {\'name\': \'search\', \'description\': "Search for files and folders on this computer. Use \'find\' to search by filename pattern (supports wildcards like *.py, *.txt). Use \'find_content\' to search inside text files for specific text.", \'parameters\': {\'type\': \'object\', \'properties\': {\'action\': {\'type\': \'string\', \'description\': "Search type: \'find\' for filename search, \'find_content\' for text content search.", \'enum\': [\'find\', \'find_content\']}, \'query\': {\'type\': \'string\', \'description\': "The search query: a filename pattern (e.g., \'*.py\', \'report*\') or text to find inside files."}, \'directory\': {\'type\': \'string\', \'description\': "Directory to search in (e.g., \'~/Desktop\', \'~/Documents\'). Defaults to user home."}, \'max_results\': {\'type\': \'integer\', \'description\': \'Maximum number of results to return. Default: 20.\'}}, \'required\': [\'action\', \'query\']}}}}, {\'type\': \'missing\', \'loc\': (\'body\', \'tools\', 6, \'function\', \'name\'), \'msg\': \'Field required\', \'input\': {\'type\': \'function\', \'function\': {\'name\': \'terminal\', \'description\': \'Execute a shell command on this Windows computer. Use this for system tasks like checking installed software, getting network info, listing processes, etc. Dangerous commands are blocked. Sensitive commands require user confirmation.\', \'parameters\': {\'type\': \'object\', \'properties\': {\'command\': {\'type\': \'string\', \'description\': "The shell command to execute (e.g., \'dir\', \'ipconfig\', \'pip list\')."}, \'working_directory\': {\'type\': \'string\', \'description\': \'Working directory for the command. Defaults to user home.\'}}, \'required\': [\'command\']}}}}, {\'type\': \'missing\', \'loc\': (\'body\', \'tools\', 7, \'function\', \'name\'), \'msg\': \'Field required\', \'input\': {\'type\': \'function\', \'function\': {\'name\': \'memory\', \'description\': "Store or recall information from memory. Use \'save\' to remember something (e.g., user preferences, facts). Use \'recall\' to retrieve a specific memory. Use \'search\' to find memories by keyword. Use \'set_preference\' to store a user preference. Use \'get_preference\' to retrieve a user preference.", \'parameters\': {\'type\': \'object\', \'properties\': {\'action\': {\'type\': \'string\', \'description\': \'The memory operation.\', \'enum\': [\'save\', \'recall\', \'search\', \'set_preference\', \'get_preference\']}, \'category\': {\'type\': \'string\', \'description\': "Category for the memory (e.g., \'user_info\', \'preferences\', \'facts\', \'workflows\')."}, \'key\': {\'type\': \'string\', \'description\': "The key/name for the memory item (e.g., \'favorite_editor\', \'name\')."}, \'value\': {\'type\': \'string\', \'description\': "The value to store (for \'save\' and \'set_preference\' actions)."}, \'query\': {\'type\': \'string\', \'description\': "Search query for \'search\' action."}}, \'required\': [\'action\']}}}}, {\'type\': \'missing\', \'loc\': (\'body\', \'tools\', 8, \'function\', \'name\'), \'msg\': \'Field required\', \'input\': {\'type\': \'function\', \'function\': {\'name\': \'task_planner\', \'description\': "Create and manage multi-step task plans. Use \'create\' to break a complex goal into steps. Use \'status\' to check the current plan progress.", \'parameters\': {\'type\': \'object\', \'properties\': {\'action\': {\'type\': \'string\', \'description\': "The planning action: \'create\' to make a new plan, \'status\' to check progress.", \'enum\': [\'create\', \'status\']}, \'goal\': {\'type\': \'string\', \'description\': "The goal to plan for (for \'create\' action)."}, \'steps\': {\'type\': \'string\', \'description\': "Comma-separated list of steps (for \'create\' action)."}}, \'required\': [\'action\']}}}}]', 'type': 'Bad Request', 'code': 400}}
+2026-06-11 19:09:01,019 [tatsu.server] INFO: WebSocket client disconnected
+2026-06-11 19:09:01,234 [httpx] INFO: HTTP Request: GET https://integrate.api.nvidia.com/v1/models "HTTP/1.1 200 OK"
+2026-06-11 19:09:01,322 [tatsu.server] INFO: WebSocket client connected
+2026-06-11 19:09:01,429 [httpx] INFO: HTTP Request: GET https://integrate.api.nvidia.com/v1/models "HTTP/1.1 200 OK"
+2026-06-11 19:09:01,436 [tatsu.memory.long_term] INFO: Created conversation: 827988fc-8ef3-43fe-9c31-14d8cb0876fd
+2026-06-11 19:09:01,436 [tatsu.memory.short_term] INFO: Short-term memory cleared.
+2026-06-11 19:09:01,437 [tatsu.agent] INFO: Started new conversation: 827988fc-8ef3-43fe-9c31-14d8cb0876fd
+2026-06-11 19:09:03,477 [tatsu.memory.short_term] INFO: Short-term memory cleared.
+2026-06-11 19:09:03,477 [tatsu.agent] INFO: Resumed conversation: 827988fc-8ef3-43fe-9c31-14d8cb0876fd (0 messages)
+2026-06-11 19:09:05,307 [tatsu.agent] INFO: Agent iteration 1/10
+2026-06-11 19:09:39,845 [tatsu.server] INFO: 🚀 Starting Tatsu AI...
+2026-06-11 19:09:39,845 [tatsu.db] INFO: Initializing database at: C:\Users\devku\OneDrive\Desktop\Tatsu\data\tatsu.db
+2026-06-11 19:09:39,848 [tatsu.db] INFO: Database initialized successfully.
+2026-06-11 19:09:39,849 [tatsu.server] INFO: ✅ Database initialized
+2026-06-11 19:09:40,442 [tatsu.memory.semantic] INFO: Semantic memory initialized (0 entries)
+2026-06-11 19:09:40,442 [tatsu.server] INFO: ✅ Memory systems ready
+2026-06-11 19:09:40,444 [tatsu.server] INFO: ✅ Safety systems ready
+2026-06-11 19:09:40,698 [tatsu.llm] INFO: Ollama Provider initialized: model=qwen3, url=http://localhost:11434
+2026-06-11 19:09:40,968 [httpx] INFO: HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2026-06-11 19:09:40,970 [tatsu.server] INFO: ✅ LLM connected: qwen3
+2026-06-11 19:09:40,970 [tatsu.tools] INFO: Registered tool: calculator [low]
+2026-06-11 19:09:40,970 [tatsu.tools] INFO: Registered tool: browser [low]
+2026-06-11 19:09:40,970 [tatsu.tools] INFO: Registered tool: system_info [low]
+2026-06-11 19:09:40,970 [tatsu.tools] INFO: Registered tool: app_launcher [medium]
+2026-06-11 19:09:40,970 [tatsu.tools] INFO: Registered tool: file_manager [medium]
+2026-06-11 19:09:40,970 [tatsu.tools] INFO: Registered tool: search [low]
+2026-06-11 19:09:40,971 [tatsu.tools] INFO: Registered tool: terminal [high]
+2026-06-11 19:09:40,971 [tatsu.tools] INFO: Registered tool: memory [low]
+2026-06-11 19:09:40,971 [tatsu.tools] INFO: Registered tool: task_planner [low]
+2026-06-11 19:09:40,971 [tatsu.server] INFO: ✅ 9 tools registered
+2026-06-11 19:09:40,971 [tatsu.server] INFO: ✅ Agent ready
+2026-06-11 19:09:40,971 [tatsu.server] INFO: 🌐 Tatsu AI is live at http://127.0.0.1:8000
+2026-06-11 19:09:41,249 [httpx] INFO: HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2026-06-11 19:09:41,267 [tatsu.server] INFO: WebSocket client connected
+2026-06-11 19:09:41,276 [httpx] INFO: HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2026-06-11 19:09:41,381 [tatsu.memory.long_term] INFO: Created conversation: 5249c730-3a9e-49e0-8cdf-0e271a0a9316
+2026-06-11 19:09:41,381 [tatsu.memory.short_term] INFO: Short-term memory cleared.
+2026-06-11 19:09:41,381 [tatsu.agent] INFO: Started new conversation: 5249c730-3a9e-49e0-8cdf-0e271a0a9316
+2026-06-11 19:09:47,837 [tatsu.agent] INFO: Agent iteration 1/10
+2026-06-11 19:10:31,231 [httpx] INFO: HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2026-06-11 19:10:53,684 [tatsu.agent] INFO: Agent iteration 1/10
+2026-06-11 19:11:24,913 [httpx] INFO: HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2026-06-11 19:11:46,299 [tatsu.agent] INFO: Agent iteration 1/10
+2026-06-11 19:12:51,829 [httpx] INFO: HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2026-06-11 19:17:24,044 [tatsu.agent] INFO: Agent iteration 1/10
+2026-06-11 19:19:48,183 [httpx] INFO: HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2026-06-11 19:25:18,305 [tatsu.server] INFO: WebSocket client disconnected

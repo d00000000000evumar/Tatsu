@@ -1,0 +1,23 @@
+# Tatsu AI — Dependencies
+# ======================
+
+# Server & API
+fastapi>=0.115.0
+uvicorn[standard]>=0.30.0
+websockets>=13.0
+pydantic>=2.9.0
+
+# LLM Integration
+ollama>=0.4.0
+
+# System Monitoring
+psutil>=6.0.0
+
+# Database
+aiosqlite>=0.20.0
+
+# Vector Store (Semantic Memory)
+chromadb>=0.5.0
+
+# Environment
+python-dotenv>=1.0.0
